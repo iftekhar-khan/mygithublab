@@ -1,4 +1,4 @@
-i = 10
+# Print function
 print("The Value of i is",i)
 j = 20
 print("The Value of j is",j)
