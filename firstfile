@@ -10,3 +10,17 @@ m = i * j
 print("The Product of i and j is",m)
 d = j / i
 print("The result of dividing j by i is",d)
+
+# Use of input function.
+
+print("Please Enter value for i")
+i = input()
+print("The Value you entered is",i)
+
+print("Please Enter value for j")
+j = input()
+print("The Value you entered is",j)
+
+z = int(i) + int(j)
+
+print("The Sum is",z)
