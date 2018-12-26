@@ -9,6 +9,7 @@ a = [10,20,30,40]
 #Printing List
 
 i = 0
+
 while i < 4:
     print(a[i])
     i = i + 1  # can also be written as i+=1
